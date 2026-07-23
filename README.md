@@ -101,7 +101,6 @@ The following analyses were performed:
 - Top 10 States by Loan Applications
 
 ## Summary Analysis
-- Pivot Tables
 - Business Insights
 - Risk Segmentation
 
