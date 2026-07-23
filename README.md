@@ -165,16 +165,7 @@ Interest Rate has only a weak correlation with individual numerical variables, s
 
 
 
-# 🎯 Future Improvements
 
-- Loan Default Prediction using Machine Learning
-- Interactive Power BI Dashboard
-- Streamlit Web Application
-- Feature Engineering
-- Model Evaluation
-- Model Deployment
-
----
 
 # 📌 Conclusion
 
