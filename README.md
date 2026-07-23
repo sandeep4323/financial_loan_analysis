@@ -163,42 +163,8 @@ Interest Rate has only a weak correlation with individual numerical variables, s
 
 ---
 
-# 🚀 How to Run
 
-### Clone the repository
 
-```bash
-git clone https://github.com/yourusername/Bank-Loan-Analysis.git
-```
-
-### Install required libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn openpyxl
-```
-
-### Open the notebook
-
-```text
-financial_analysis.ipynb
-```
-
-Run all notebook cells.
-
----
-
-# 📂 Project Structure
-
-```text
-Bank-Loan-Analysis/
-│
-├── financial_loan.xlsx
-├── financial_analysis.ipynb
-├── README.md
-└── images/
-```
-
----
 
 # 🎯 Future Improvements
 
